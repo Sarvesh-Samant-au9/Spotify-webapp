@@ -1,0 +1,12 @@
+#search_area{
+    margin-top: 20px;
+}
+#search_area{
+    display: flex;
+}
+
+#search_area button{
+    margin-top: 15px;
+    margin-left: 70px;
+    margin-bottom: 15px;  
+}

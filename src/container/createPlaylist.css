@@ -1,0 +1,24 @@
+#container h1{
+    margin-left: 38%;
+    margin-top: 5%;
+}
+.container-inside{
+    border: 10px solid #E6E6E6;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 6%;
+    text-align: center;
+    border-radius: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.container-inside input:hover{
+    transform: scale(1.02);
+}
+.btn:hover{
+    background-color: #3f51b5;
+}

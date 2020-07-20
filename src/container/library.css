@@ -1,0 +1,15 @@
+.renderPlaylist{
+    display: flex;
+    justify-content: right;
+    flex-wrap: wrap;
+}
+#display{
+    height: 40vh;
+    margin-left: 30px;
+    color: black;
+}
+#playlist_page{
+    background-color: gray;
+    color: black;
+    text-align: center;
+}
